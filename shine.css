@@ -1,3 +1,8 @@
+@font-face {
+    font-family: 'Benne';
+    src: url(font/Benne-Regular.ttf);
+}
+
 /* Página inicial da Shine */
 body {
     position: relative;
