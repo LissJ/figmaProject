@@ -44,7 +44,7 @@ a {
 
 .lancamento {
     font-family: 'benne';
-    font-size: 28.12px;
+    font-size: 32.12px;
     position: absolute;
     width: 195px;
     height: 38px;
@@ -54,7 +54,7 @@ a {
 
 .joias {
     font-family: 'benne';
-    font-size: 28.12px;
+    font-size: 32.12px;
     position: absolute;
     width: 89px;
     height: 38px;
@@ -64,7 +64,7 @@ a {
 
 .sale {
     font-family: 'benne';
-    font-size: 28.12px;
+    font-size: 32.12px;
     position: absolute;
     width: 75px;
     height: 31px;
@@ -74,7 +74,7 @@ a {
 
 .desejos {
     font-family: 'benne';
-    font-size: 28.12px;
+    font-size: 32.12px;
     position: absolute;
     width: 155px;
     height: 31px;
@@ -84,7 +84,7 @@ a {
 
 .contato {
     font-family: 'benne';
-    font-size: 28.12px;
+    font-size: 32.12px;
     position: absolute;
     width: 155px;
     height: 31px;
@@ -94,7 +94,7 @@ a {
 
 .login {
     font-family: 'benne';
-    font-size: 28.12px;
+    font-size: 32.12px;
     position: absolute;
     width: 155px;
     height: 31px;
@@ -174,4 +174,68 @@ a {
     top: 1075px;
     border-radius: 25px;
     font-family: 'benne';
+}
+
+.detalhes {
+    position: absolute;
+    width: 756px;
+    height: 75px;
+    left: 342px;
+    top: 1282px;
+    font-family: 'Benne';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50.467px;
+    line-height: 50px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #19365D;
+}
+
+.line {
+    position: absolute;
+    width: 1258px;
+    height: 6px;
+    left: 91px;
+    top: 1400px;
+    background: #586F8C;
+}
+
+.banner-mascFem {
+    position: absolute;
+    width: 1261px;
+    height: 363px;
+    left: 88px;
+    top: 1460px;
+}
+
+.img-mulher {
+    position: absolute;
+    left: 49.88%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    background: url(layering-gold-jewelry-284244-1575919067109-main.jpg);
+    height: 363px;
+    width: 632px;
+    left: 629px;
+    top: 0px;
+    border-radius: 0px;
+}
+
+.botao-fem {
+    position: absolute;
+    width: 622px;
+    height: 97px;
+    left: 88px;
+    top: 1823px;
+}
+
+.botao-masc {
+    position: absolute;
+    width: 622px;
+    height: 97px;
+    left: 727px;
+    top: 1823px;
 }
