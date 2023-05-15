@@ -654,3 +654,143 @@ a {
     filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
     border-radius: 105px;
 }
+
+.retangulo-sobre {
+    position: absolute;
+    width: 1258px;
+    height: 107px;
+    left: 91px;
+    top: 4217px;
+    background: #859BB7;
+}
+
+.ret1 {
+    position: absolute;
+    width: 431.98px;
+    height: 141.18px;
+    left: 538.54px;
+    top: 4205.25px;
+    background: #00285C;
+    border-radius: 29.9238px;
+}
+
+.ret2 {
+    position: absolute;
+    width: 431.98px;
+    height: 141.18px;
+    left: 448px;
+    top: 4221.36px;
+    background: #235495;
+    border-radius: 29.9238px;
+}
+
+.ret3 {
+    position: absolute;
+    width: 431.98px;
+    height: 141.18px;
+    left: 498.64px;
+    top: 4183px;
+    background: #D2DFF1;
+    border-radius: 29.9238px;
+}
+
+.about-us {
+    position: absolute;
+    width: 285px;
+    height: 54px;
+    left: 566.93px;
+    top: 4193px;
+    font-family: 'Benne';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 54.0932px;
+    line-height: 54px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #00285C;
+}
+
+.retangle5 {
+    position: absolute;
+    width: 657px;
+    height: 409px;
+    left: 111px;
+    top: 4428px;
+    background: #586f8cb0;
+    border-radius: 20px;
+}
+
+.about-lorem {
+    position: absolute;
+    width: 618px;
+    height: 423px;
+    left: 133px;
+    top: 4400px;
+    font-family: 'Benne';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 32px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;    
+}
+
+.circulo5 {
+    position: absolute;
+    width: 445.55px;
+    height: 445.55px;
+    left: 835px;
+    top: 4384px;
+    border-radius: 250px;
+    background: #235495;
+}
+
+.circulo6 {
+    position: absolute;
+    width: 445.55px;
+    height: 445.55px;
+    left: 879.55px;
+    top: 4415.45px;
+    border-radius: 250px;
+    background: #A8CAF9;
+}
+
+.map {
+    position: absolute;
+    width: 436.81px;
+    height: 436.81px;
+    left: 855.09px;
+    top: 4399.73px;
+    background: url(.png);
+    border-radius: 218.407px;
+}
+
+.retangle6 {
+    position: absolute;
+    width: 1440px;
+    height: 95px;
+    left: 0px;
+    top: 5000px;
+    background: #00285C;
+}
+
+.contact {
+    position: absolute;
+    width: 502px;
+    height: 49px;
+    left: 495px;
+    top: 4990px;
+    font-family: 'Benne';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48.8718px;
+    line-height: 49px;    
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+    
+}
