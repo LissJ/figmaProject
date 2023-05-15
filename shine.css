@@ -43,6 +43,7 @@ a {
 }
 
 .lancamento {
+    font-family: 'benne';
     font-size: 28.12px;
     position: absolute;
     width: 195px;
@@ -52,6 +53,7 @@ a {
 }
 
 .joias {
+    font-family: 'benne';
     font-size: 28.12px;
     position: absolute;
     width: 89px;
@@ -61,6 +63,7 @@ a {
 }
 
 .sale {
+    font-family: 'benne';
     font-size: 28.12px;
     position: absolute;
     width: 75px;
@@ -70,6 +73,7 @@ a {
 }
 
 .desejos {
+    font-family: 'benne';
     font-size: 28.12px;
     position: absolute;
     width: 155px;
@@ -79,6 +83,7 @@ a {
 }
 
 .contato {
+    font-family: 'benne';
     font-size: 28.12px;
     position: absolute;
     width: 155px;
@@ -88,6 +93,7 @@ a {
 }
 
 .login {
+    font-family: 'benne';
     font-size: 28.12px;
     position: absolute;
     width: 155px;
@@ -116,3 +122,56 @@ a {
     transform: rotate(-85.28deg);
 }
 
+.titulo-lancamento {
+    position: absolute;
+    width: 701px;
+    height: 100px;
+    left: 666px;
+    top: 520px;
+    font-family: 'benne';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 100.256px;
+    line-height: 100px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #19365D;
+}
+
+.texto-lancamento {
+    position: absolute;
+    width: 660px;
+    height: 376px;
+    left: 689px;
+    top: 660px;
+    font-family: 'Benne';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 32px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+}
+
+.retangulo {
+    position: absolute;
+    width: 701px;
+    height: 363px;
+    left: 666px;
+    top: 700px;
+    background: rgba(88, 111, 140, 0.69);
+    border-radius: 20px;
+}
+
+.botao-confira {
+    position: absolute;
+    width: 323px;
+    height: 99px;
+    left: 855px;
+    top: 1075px;
+    border-radius: 25px;
+    font-family: 'benne';
+}
