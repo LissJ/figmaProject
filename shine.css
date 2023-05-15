@@ -3,7 +3,6 @@
     src: url(font/Benne-Regular.ttf);
 }
 
-/* Página inicial da Shine */
 body {
     position: relative;
     width: 1440px;
@@ -238,4 +237,111 @@ a {
     height: 97px;
     left: 727px;
     top: 1823px;
+}
+
+.retangulos {
+    position: absolute;
+    width: 1258px;
+    height: 92px;
+    left: 91px;
+    top: 2016px;
+    background: #859BB7;
+}
+
+.escolha {
+    position: absolute;
+    width: 702px;
+    height: 54px;
+    left: 369px;
+    top: 1998px;
+    font-family: 'Benne';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 54.1192px;
+    line-height: 54px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.preferida {
+    position: absolute;
+    width: 424px;
+    height: 31px;
+    left: 508px;
+    top: 2098px;
+    font-family: 'Benne';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 31.2215px;
+    line-height: 31px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+}
+
+.quadradinho {
+    position: absolute;
+    width: 406.78px;
+    height: 406.78px;
+    left: 238.22px;
+    top: 2220.1px;
+    background: #C3D3E8;
+}
+
+.colar {
+    position: absolute;
+    width: 418.76px;
+    height: 418.76px;
+    left: 218px;
+    top: 2200px;
+}
+
+.line2 {
+    position: absolute;
+    width: 570px;
+    height: 6px;
+    left: 150px;
+    top: 2670px;
+    background: #586F8C;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.glamour {
+    position: absolute;
+    width: 520px;
+    height: 75px;
+    left: 170px;
+    top: 2700px;
+    font-family: 'Benne';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40.467px;
+    line-height: 50px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #19365D;
+}
+
+.quadrado2 {
+    position: absolute;
+    width: 390.22px;
+    height: 383.57px;
+    left: 953px;
+    top: 2480px;
+    background: #586F8C;
+    transform: rotate(-85.28deg);
+}
+
+.img-glamour {
+    position: absolute;
+    width: 468px;
+    height: 642px;
+    left: 829px;
+    top: 2175px;
+    background: url(.jpg);
+    border-radius: 40px;
 }
