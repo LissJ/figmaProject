@@ -1,0 +1,113 @@
+/* Página inicial da Shine */
+body {
+    position: relative;
+    width: 1440px;
+    height: 5595px;
+    background: #F8FBFF;
+}
+
+.all {
+    display: flex;
+
+}
+
+.retangle {
+    position: absolute;
+    width: 1391px;
+    height: 226px;
+    left: 25px;
+    top: 104px;
+    background: #19365D;
+    text-align: center;
+}
+
+.logo {
+    box-sizing: border-box;
+    position: absolute;
+    width: 382px;
+    height: 382px;
+    left: 529px;
+    top: 19px;
+    background: url(Shine.png);
+    border-radius: 191px;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+.lancamento {
+    font-size: 28.12px;
+    position: absolute;
+    width: 195px;
+    height: 38px;
+    left: 82px;
+    top: 364px;
+}
+
+.joias {
+    font-size: 28.12px;
+    position: absolute;
+    width: 89px;
+    height: 38px;
+    left: 322px;
+    top: 364px;
+}
+
+.sale {
+    font-size: 28.12px;
+    position: absolute;
+    width: 75px;
+    height: 31px;
+    left: 456px;
+    top: 364px;
+}
+
+.desejos {
+    font-size: 28.12px;
+    position: absolute;
+    width: 155px;
+    height: 31px;
+    left: 898px;
+    top: 364px;
+}
+
+.contato {
+    font-size: 28.12px;
+    position: absolute;
+    width: 155px;
+    height: 31px;
+    left: 1070px;
+    top: 364px;
+}
+
+.login {
+    font-size: 28.12px;
+    position: absolute;
+    width: 155px;
+    height: 31px;
+    left: 1253px;
+    top: 364px;
+}
+
+.img-lancamento {
+    position: absolute;
+    width: 496px;
+    height: 620px;
+    left: 91px;
+    top: 508px;
+    background: url(colar_em_quartzo_rosa_1523_5_e17a3b595c38d3279313b37d75b004b5.png);
+    border-radius: 36px;
+}
+
+.quadrado {
+    position: absolute;
+    width: 390.22px;
+    height: 383.57px;
+    left: 40.92px;
+    top: 790.9px;
+    background: #586F8C;
+    transform: rotate(-85.28deg);
+}
+
