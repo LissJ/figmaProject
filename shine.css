@@ -345,3 +345,312 @@ a {
     background: url(.jpg);
     border-radius: 40px;
 }
+
+.circle1 {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 183px;
+    top: 3021px;
+    border-radius: 20px;
+    background: #003E8F;
+}
+
+.circle2 {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 223px;
+    top: 3021px;
+    border-radius: 20px;
+    background: #003E8F;
+}
+
+.circle3 {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 263px;
+    top: 3021px;
+    border-radius: 20px;
+    background: #003E8F;
+}
+
+.circle4 {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 1166px;
+    top: 3026px;
+    border-radius: 20px;
+    background: #003E8F;
+}
+
+.circle5 {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 1206px;
+    top: 3026px;
+    border-radius: 20px;
+    background: #003E8F;
+}
+
+.circle6 {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 1246px;
+    top: 3026px;
+    border-radius: 20px;
+    background: #003E8F;
+}
+
+.aproveite {
+    position: absolute;
+    width: 799px;
+    height: 69px;
+    left: 338px;
+    top: 2960px;
+    font-family: 'Benne';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50.467px;
+    line-height: 50px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #19365D;
+}
+
+.retangulo2 {
+    position: absolute;
+    width: 1258px;
+    height: 6px;
+    left: 91px;
+    top: 3071px;
+    background: #A8CAF9;
+}
+
+.belas {
+    position: absolute;
+    width: 580px;
+    height: 106px;
+    left: 490px;
+    top: 3060px;
+    font-family: 'Benne';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 37.116px;
+    line-height: 37px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #19365D;
+}
+
+.retangulo3 {
+    position: absolute;
+    width: 1258px;
+    height: 6px;
+    left: 91px;
+    top: 3148px;
+    background: #A8CAF9;
+}
+
+.retangulo-branco {
+    position: absolute;
+    width: 638px;
+    height: 94px;
+    left: 415px;
+    top: 3103px;
+
+    background: #F8FBFF;
+}
+
+.circulo1 {
+    position: absolute;
+    width: 210px;
+    height: 210px;
+    left: 250px;
+    top: 3231px;
+    border-radius: 120px;
+    background: #003E8F;
+}
+
+.circulo2 {
+    position: absolute;
+    width: 210px;
+    height: 210px;
+    left: 1041px;
+    top: 3441px;
+    border-radius: 120px;
+    background: #003E8F;
+}
+
+.circulo3 {
+    position: absolute;
+    width: 210px;
+    height: 210px;
+    left: 250px;
+    top: 3651px;
+    border-radius: 120px;
+    background: #003E8F;
+}
+
+.circulo4 {
+    position: absolute;
+    width: 210px;
+    height: 210px;
+    left: 1041px;
+    top: 3861px;
+    border-radius: 120px;
+    background: #003E8F;
+}
+
+.retangle1 {
+    position: absolute;
+    width: 4px;
+    height: 194px;
+    left: 508px;
+    top: 3239px;
+    background: #A8CAF9;
+}
+
+.retangle2 {
+    position: absolute;
+    width: 4px;
+    height: 194px;
+    left: 992px;
+    top: 3449px;
+    background: #A8CAF9;
+}
+
+.retangle3 {
+    position: absolute;
+    width: 4px;
+    height: 194px;
+    left: 508px;
+    top: 3659px;
+    background: #A8CAF9;
+}
+
+.retangle4 {
+    position: absolute;
+    width: 4px;
+    height: 194px;
+    left: 992px;
+    top: 3869px;
+    background: #A8CAF9;
+}
+
+.text1 {
+    position: absolute;
+    width: 323px;
+    height: 83.18px;
+    left: 547px;
+    top: 3264px;
+    font-family: 'benne';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28.9297px;
+    line-height: 36px;
+    display: flex;
+    align-items: center;
+    color: #003E8F;
+}
+
+.text2 {
+    position: absolute;
+    width: 323px;
+    height: 83.18px;
+    left: 637px;
+    top: 3470px;
+    font-family: 'benne';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28.9297px;
+    line-height: 36px;
+    display: flex;
+    align-items: center;
+    text-align: right;
+    color: #003E8F;
+    
+}
+
+.text3 {
+    position: absolute;
+    width: 323px;
+    height: 83.18px;
+    left: 547px;
+    top: 3686px;
+    font-family: 'benne';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28.9297px;
+    line-height: 36px;
+    display: flex;
+    align-items: center;
+    color: #003E8F;
+}
+
+.text4 {
+    position: absolute;
+    width: 323px;
+    height: 83.18px;
+    left: 637px;
+    top: 3891px;
+    font-family: 'benne';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28.9297px;
+    line-height: 36px;
+    display: flex;
+    align-items: center;
+    text-align: right;
+    color: #003E8F;
+}
+
+.img1 {
+    position: absolute;
+    width: 210px;
+    height: 210px;
+    left: 267px;
+    top: 3231px;
+    background: url(elsa-peretti-anel-open-heart-36914238_1023273_ED_M.png);
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    border-radius: 105px;
+}
+
+.img2 {
+    position: absolute;
+    width: 210px;
+    height: 210px;
+    left: 1027px;
+    top: 3441px;
+    background: url(elsa-perettipendente-color-by-the-yard-com-gua-marinha-25224884_1014980_AV_1.png);
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    border-radius: 105px;
+}
+
+.img3 {
+    position: absolute;
+    width: 210px;
+    height: 210px;
+    left: 267px;
+    top: 3651px;
+    background: url(tiffany-t-brincos-smile-36667168_963212_ED.png);
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    border-radius: 105px;
+}
+
+.img4 {
+    position: absolute;
+    width: 210px;
+    height: 210px;
+    left: 1027px;
+    top: 3861px;
+    background: url(paloma-picasso-pulseira-arrow-loving-heart-37298182_966418_ED_M.png);
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    border-radius: 105px;
+}
